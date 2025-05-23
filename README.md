@@ -49,7 +49,7 @@ I’m an experienced finance professional transitioning into data science, with 
 #### Python Ecosystem:
 - **Core Data Science**: `Pandas`, `NumPy`, `SciPy`, `Statsmodels`
 - **Machine Learning**: `Scikit-learn`, `XGBoost`, `LightGBM`
-- **Deep Learning**: `TensorFlow` (beginner), `PyTorch` (beginner)
+- **Deep Learning**: `TensorFlow` , `PyTorch`
 - **Natural Language Processing**: `NLTK`, `spaCy`, `Gensim`
 - **Language Models & APIs**: `OpenAI API`, `transformers` (HuggingFace)
 
