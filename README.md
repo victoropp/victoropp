@@ -1,111 +1,96 @@
 # Hi, I'm Victor Collins Oppon
 
-**Finance Leader Turned Data Scientist & AI-Driven Problem Solver**  
-MSc Data Science | FCCA (UK) | 15+ Years in Financial Strategy, Reporting & Analytics  
-Based in the UK | Originally from Ghana | Global-Minded | AI-Driven
+**Data Scientist & ML Engineer | FCCA | MBA Finance | MSc Data Science (2026)**
+
+Building Production ML Systems that Drive Real Business Results
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-victoropp.github.io-00D9FF?style=for-the-badge&logo=github)](https://victoropp.github.io/portfolio-site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victor-collins-oppon-fcca-mba-bsc-01541019/)
+[![Email](https://img.shields.io/badge/Email-victoropp@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:victoropp@gmail.com)
 
 ---
 
 ## About Me
 
-I’m an experienced finance professional transitioning into data science, with a strong foundation in quantitative analysis, strategic decision-making, and operational systems. I specialise in designing intelligent, data-driven solutions that combine domain expertise with machine learning, analytics, and automation to solve complex, real-world challenges across diverse sectors.
+I'm a **Data Scientist & ML Engineer** with **15+ years of analytical leadership**, uniquely positioned at the intersection of advanced machine learning and financial expertise. With a rare combination of **Chartered Accountancy (FCCA)** and **cutting-edge ML/AI capabilities**, I architect production-grade ML systems that deliver measurable, transformative business impact.
 
+### What Sets Me Apart
 
-- Transitioning from a **Finance and Strategy Professional** to a **Data-Driven Technology Specialist** focused on the application of AI, analytics, and automation across multiple sectors
-- Specializing in **Supervised and Unsupervised Machine Learning**, **Natural Language Processing (NLP)**, **Predictive and Prescriptive Analytics**, and **End-to-End Intelligent Automation** — including model development, evaluation, optimization, and seamless integration into real-world systems across diverse domains such as finance, healthcare, education, public services, and research
-- Skilled in **Financial Forecasting and Quantitative Modelling**, **Interactive and Advanced Data Visualisation**, and the design of **Intelligent Analytical Systems** for use in finance, healthcare, education, governance, and other data-intensive domains
-- Experienced across multiple domains including **Financial Systems**, **Process Automation**, **Regulatory Technologies (RegTech)**, **Enterprise Platforms**, and **Data-Driven Decision Support Solutions**
-- Focused on delivering **AI-driven impact** in both **Africa** and **Europe**
+- **Rare Dual Expertise**: FCCA Chartered Accountancy + 15+ years business leadership + cutting-edge ML/AI
+- **Production-First Mindset**: Every project includes Streamlit dashboards, FastAPI endpoints, Docker deployment
+- **Explainable AI Champion**: SHAP, LIME, Grad-CAM in every project for interpretability and compliance
+- **Multi-Domain Versatility**: Finance, Healthcare, Retail, NLP, Computer Vision
+
+---
+
+## Tech Stack
+
+### Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+### Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+### Deployment & MLOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### [Spam Detection in MATLAB (UCI Dataset)](https://github.com/yourusername/naive-bayes-spam-detection)
-- Built an end-to-end Naive Bayes spam classifier with deployment-ready architecture
-- Integrated feature pruning, hyperparameter tuning, cross-validation, ROC/AUC evaluation, and logistic regression comparison
-- Published across GitHub, LinkedIn, and Kaggle
-- [LinkedIn Article](https://www.linkedin.com/pulse/my-first-end-to-end-spam-detection-project-matlab-victor-collins-gqoaf/)
-- [Kaggle Notebook](https://www.kaggle.com/code/victoropp/spam-detection-in-matlab-naive-bayes-classifier/notebook)
+| Project | Domain | Key Metric | Tech Stack |
+|---------|--------|------------|------------|
+| [Credit Card Fraud Detection](https://victoropp.github.io/portfolio-site/projects/credit-card-fraud-detection) | Finance | **97% ROC-AUC**, $131K savings | XGBoost, SHAP, FastAPI |
+| [COVID-19 X-ray Classification](https://victoropp.github.io/portfolio-site/projects/covid-xray-classification) | Healthcare | **92% ROC-AUC** | CNN, TensorFlow, Grad-CAM |
+| [Customer Churn Prediction](https://victoropp.github.io/portfolio-site/projects/customer-churn-prediction) | Retail | **98% ROC-AUC** | XGBoost, SHAP, Streamlit |
+| [Stock Market Intelligence](https://victoropp.github.io/portfolio-site/projects/stock-market-intelligence) | Finance | **98% Accuracy** | LSTM, Technical Analysis |
+| [Retail Sales Forecasting](https://victoropp.github.io/portfolio-site/projects/retail-sales-forecasting) | Retail | **13.5% WAPE** | LightGBM, Time Series |
+| [Car Insurance Premium Prediction](https://victoropp.github.io/portfolio-site/projects/car-insurance-premium-prediction) | Insurance | **99.78% R²** | XGBoost, Stacking |
 
-> Upcoming: Altair-based NLP dashboards, Streamlit data apps, and deep learning with MATLAB & Python
-
----
-
-## Technical Skills & Tools
-
-### Languages & Core Tools:
-- **Python** (primary language for data science and automation)
-- **MATLAB** (prototyping, numerical computing, deep learning, signal/image processing)
-- **SQL** (relational data querying, ETL pipelines, data modelling)
-- **R** (statistical computing and exploratory data analysis)
-- **Git & GitHub** (version control, collaboration, CI/CD integration)
-- **Bash/Shell Scripting** (automation, server tasks, data ingestion)
+**[View All 17+ Production ML Projects →](https://victoropp.github.io/portfolio-site/projects)**
 
 ---
 
-### Libraries & Frameworks:
+## Credentials
 
-#### Python Ecosystem:
-- **Core Data Science**: `Pandas`, `NumPy`, `SciPy`, `Statsmodels`
-- **Machine Learning**: `Scikit-learn`, `XGBoost`, `LightGBM`
-- **Deep Learning**: `TensorFlow` , `PyTorch`
-- **Natural Language Processing**: `NLTK`, `spaCy`, `Gensim`
-- **Language Models & APIs**: `OpenAI API`, `transformers` (HuggingFace)
-
-#### Visualization:
-- **Exploratory Visualisation**: `Matplotlib`, `Seaborn`, `Plotly`
-- **Declarative & Interactive Visualisation**: `Altair`, `Bokeh`, `Streamlit`
-- **BI Tools**: Power BI, Tableau, Excel Dashboards
-
-#### MATLAB:
-- **ML & AI**: Machine Learning Toolbox, Deep Learning Toolbox
-- **Signal/Image Processing**: Image Processing Toolbox, Statistics Toolbox
+| Qualification | Institution |
+|--------------|-------------|
+| **MSc Data Science** (In Progress) | Middlesex University, London |
+| **FCCA** (Fellow Chartered Certified Accountant) | ACCA, UK |
+| **MBA Finance** | Wisconsin International University College |
+| **BSc Accounting** (First Class Honours) | University of Ghana Business School |
 
 ---
 
-### Platforms & Development Environments:
-- **Data Science IDEs**: Jupyter Notebook, Google Colab, MATLAB Live Editor, VS Code
-- **Web & App Frameworks**: Streamlit (Python), MATLAB App Designer
-- **Cloud & Notebooks**: Kaggle Notebooks, Streamlit Cloud, GitHub Codespaces
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victoropp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
-### Systems & Enterprise Tools:
-- **Accounting & ERP**: Xero, QuickBooks, Sage, ERPNext
-- **CRM/Operations**: Salesforce, HubSpot
-- **Document & Process Automation**: Google Workspace APIs, Microsoft Excel (incl. VBA), PDF & Doc parsing
+## Let's Connect
+
+Open to **senior data science roles**, **ML engineering positions**, and **consulting opportunities**.
+
+- **Portfolio**: [victoropp.github.io/portfolio-site](https://victoropp.github.io/portfolio-site/)
+- **LinkedIn**: [Victor Collins Oppon](https://www.linkedin.com/in/victor-collins-oppon-fcca-mba-bsc-01541019/)
+- **Email**: victoropp@gmail.com
 
 ---
 
-### Model Deployment & Automation:
-- **Python Deployment**: Streamlit, Flask , FastAPI 
-- **MATLAB Deployment**: `saveLearnerForCoder`, MATLAB Coder, MATLAB Production Server
-- **CI/CD & Integration**: GitHub Actions, GitLab CI/CD
-- **APIs & Pipelines**: RESTful API development, JSON/XML data handling, scheduled ETL pipelines
-- **Excel Automation**: Python integration (openpyxl, xlwings, pandas), macros (VBA)
-
----
-
-## Domain Expertise
-
-- **Financial Reporting and IFRS Automation**: Designing and implementing automated financial reporting systems aligned with international standards for efficiency, compliance, and real-time insights  
-- **Budgeting, Planning, and Forecasting**: Developing dynamic models and predictive analytics frameworks to support strategic planning, scenario analysis, and resource allocation  
-- **Business Intelligence and Data Warehousing**: Building dashboards, KPIs, and reporting systems to drive data-informed decision-making across functional and executive levels  
-- **Digital Transformation for SMEs and Enterprises**: Leveraging ERP, SaaS, and AI tools to streamline operations, automate workflows, and improve digital maturity in growing organisations  
-- **AI Solutions Across Sectors**: Applying machine learning and automation to solve real-world challenges in **finance, healthcare, education, logistics, and public administration**  
-- **Regulatory Technologies (RegTech)**: Implementing compliance analytics, risk monitoring tools, and audit automation for enhanced governance and regulatory alignment  
-- **Natural Language Processing (NLP)** Applications: Delivering solutions for sentiment analysis, text classification, keyword extraction, topic modelling, and semantic search in reviews, documents, and communication data
-
-
----
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/victor-collins-oppon-fcca-mba-bsc-01541019/)
-- [Kaggle](https://www.kaggle.com/victoropp)
-- [GitHub Repositories](https://github.com/victoropp?tab=repositories)
-
----
-
-_Always Learning. Always Building. Focused on Real-World Impact._
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=victoropp&color=00D9FF&style=flat-square" alt="Profile Views" />
+</p>
